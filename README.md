@@ -2,7 +2,7 @@
 
 
 <p>• 👋 I'm Danilo,</p>
-<p>• 🔭 Interested in Automate | Backend</p>
+<p>• 🔭 Interested in Automate the manual and Backend</p>
 <p>• 📫 Contact me daanrod93@gmail.com</p>
 <p>• 🔌 Connect with me <a href="linkedin.com/in/daanrod93/">linkedin.com/in/daanrod93/</a></p>
 
