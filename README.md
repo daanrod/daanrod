@@ -77,9 +77,9 @@ that runs 24/7. Passionate about solving complex problems with clean code.
 <h2 align="center">📊 Stats</h2>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=daanrod&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=e6edf3&ring_color=1f6feb" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=daanrod&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=e6edf3&ring_color=1f6feb" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=daanrod&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&text_color=e6edf3" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=daanrod&layout=compact&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&text_color=e6edf3" alt="Top Languages"/>
 </div>
 
 <br>
