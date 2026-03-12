@@ -90,16 +90,6 @@ that runs 24/7. Passionate about solving complex problems with clean code.
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
-
-<div align="center">
-  <a href="https://github.com/daanrod/neon-tetris">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daanrod&repo=neon-tetris&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=e6edf3" alt="neon-tetris"/>
-  </a>
-</div>
-
----
-
 <div align="center">
 
 **📫 Get in touch**
