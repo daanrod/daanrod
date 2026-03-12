@@ -34,6 +34,16 @@ that runs 24/7. Passionate about solving complex problems with clean code.
 
 <div align="center">
 
+**Most Used**
+
+![Rust](https://img.shields.io/badge/Rust-35%25-dea584?style=flat-square&logo=rust&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-30%25-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-15%25-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-15%25-3776AB?style=flat-square&logo=python&logoColor=fff)
+![Other](https://img.shields.io/badge/Other-5%25-8b949e?style=flat-square)
+
+---
+
 **Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
@@ -78,8 +88,6 @@ that runs 24/7. Passionate about solving complex problems with clean code.
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=daanrod&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=e6edf3&ring_color=1f6feb" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=daanrod&layout=compact&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&text_color=e6edf3" alt="Top Languages"/>
 </div>
 
 <br>
