@@ -102,9 +102,12 @@ alt="Top Languages"/>
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=daanrod&theme=github-darkblue&hide_border=true&background=0d1117&ring=1f6feb&fire=1f6feb&currStreakLabel=e6edf3&cache_seconds=1800" alt="GitHub Streak"/>
-
+ <img src="https://streak-stats.demolab.com?
+user=daanrod&hide_border=true&background=0d1117&stroke=1f6feb&ring=1f6feb&fire=1f6f
+eb&currStreakNum=e6edf3&currStreakLabel=1f6feb&sideNums=e6edf3&sideLabels=8b949e&da
+tes=8b949e&cache_seconds=1800" alt="GitHub Streak"/>
 </div>
+
 
 ---
 
