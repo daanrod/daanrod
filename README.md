@@ -87,25 +87,16 @@ that runs 24/7. Passionate about solving complex problems with clean code.
 <h2 align="center">📊 Stats</h2>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-inky-omega-20.vercel.app/api?
-username=daanrod&show_icons=true&count_private=true&include_all_commits=true&theme=
-github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&t
-ext_color=e6edf3&ring_color=1f6feb&cache_seconds=1800" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats-inky-omega-20.vercel.app/api?username=daanrod&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=e6edf3&ring_color=1f6feb&cache_seconds=1800" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats-inky-omega-20.vercel.app/api/
-top-langs?
-username=daanrod&layout=compact&count_private=true&theme=github_dark&hide_border=tr
-ue&bg_color=0d1117&title_color=1f6feb&text_color=e6edf3&cache_seconds=1800"
+<img height="170" src="https://github-readme-stats-inky-omega-20.vercel.app/api/top-langs?username=daanrod&layout=compact&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&text_color=e6edf3&cache_seconds=1800"
 alt="Top Languages"/>
 </div>
 
 <br>
 
 <div align="center">
- <img src="https://streak-stats.demolab.com?
-user=daanrod&hide_border=true&background=0d1117&stroke=1f6feb&ring=1f6feb&fire=1f6f
-eb&currStreakNum=e6edf3&currStreakLabel=1f6feb&sideNums=e6edf3&sideLabels=8b949e&da
-tes=8b949e&cache_seconds=1800" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=daanrod&hide_border=true&background=0d1117&stroke=1f6feb&ring=1f6feb&fire=1f6feb&currStreakNum=e6edf3&currStreakLabel=1f6feb&sideNums=e6edf3&sideLabels=8b949e&dates=8b949e&cache_seconds=1800" alt="GitHub Streak"/>
 </div>
 
 
