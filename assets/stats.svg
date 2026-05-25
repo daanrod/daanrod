@@ -22,7 +22,7 @@
     <text x="25" y="136" class="label">Total Issues</text>
     <text x="375" y="136" class="value" text-anchor="end">24</text>
     <text x="25" y="158" class="label">Contributions (last year)</text>
-    <text x="375" y="158" class="value" text-anchor="end">3,087</text>
+    <text x="375" y="158" class="value" text-anchor="end">3,059</text>
     <text x="25" y="180" class="label">Repositories</text>
     <text x="375" y="180" class="value" text-anchor="end">30</text>
     <text x="25" y="202" class="label">Followers</text>
