@@ -13,20 +13,20 @@
     <text x="25" y="40" class="title">Most Used Languages</text>
     <line x1="25" y1="50" x2="375" y2="50" stroke="#1f6feb33" stroke-width="1" />
     <clipPath id="barClip"><rect x="25" y="60" width="350" height="10" rx="5" /></clipPath>
-    <g clip-path="url(#barClip)"><rect x="25.00" y="60" width="100.44" height="10" fill="#dea584" /><rect x="125.44" y="60" width="95.84" height="10" fill="#f1e05a" /><rect x="221.27" y="60" width="91.61" height="10" fill="#3178c6" /><rect x="312.89" y="60" width="54.40" height="10" fill="#3572A5" /><rect x="367.29" y="60" width="5.25" height="10" fill="#e34c26" /><rect x="372.54" y="60" width="2.46" height="10" fill="#89e051" /></g>
+    <g clip-path="url(#barClip)"><rect x="25.00" y="60" width="100.31" height="10" fill="#dea584" /><rect x="125.31" y="60" width="94.86" height="10" fill="#f1e05a" /><rect x="220.17" y="60" width="92.20" height="10" fill="#3178c6" /><rect x="312.37" y="60" width="54.99" height="10" fill="#3572A5" /><rect x="367.37" y="60" width="5.19" height="10" fill="#e34c26" /><rect x="372.56" y="60" width="2.44" height="10" fill="#89e051" /></g>
     
     <circle cx="31" cy="101" r="6" fill="#dea584" />
     <text x="45" y="105" class="label">Rust</text>
     <text x="190" y="105" class="muted" text-anchor="end">28.4%</text>
     <circle cx="206" cy="101" r="6" fill="#f1e05a" />
     <text x="220" y="105" class="label">JavaScript</text>
-    <text x="365" y="105" class="muted" text-anchor="end">27.1%</text>
+    <text x="365" y="105" class="muted" text-anchor="end">26.9%</text>
     <circle cx="31" cy="129" r="6" fill="#3178c6" />
     <text x="45" y="133" class="label">TypeScript</text>
-    <text x="190" y="133" class="muted" text-anchor="end">25.9%</text>
+    <text x="190" y="133" class="muted" text-anchor="end">26.1%</text>
     <circle cx="206" cy="129" r="6" fill="#3572A5" />
     <text x="220" y="133" class="label">Python</text>
-    <text x="365" y="133" class="muted" text-anchor="end">15.4%</text>
+    <text x="365" y="133" class="muted" text-anchor="end">15.6%</text>
     <circle cx="31" cy="157" r="6" fill="#e34c26" />
     <text x="45" y="161" class="label">HTML</text>
     <text x="190" y="161" class="muted" text-anchor="end">1.5%</text>
