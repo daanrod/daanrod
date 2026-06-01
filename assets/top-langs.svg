@@ -13,7 +13,7 @@
     <text x="25" y="40" class="title">Most Used Languages</text>
     <line x1="25" y1="50" x2="375" y2="50" stroke="#1f6feb33" stroke-width="1" />
     <clipPath id="barClip"><rect x="25" y="60" width="350" height="10" rx="5" /></clipPath>
-    <g clip-path="url(#barClip)"><rect x="25.00" y="60" width="102.62" height="10" fill="#dea584" /><rect x="127.62" y="60" width="94.04" height="10" fill="#f1e05a" /><rect x="221.66" y="60" width="91.27" height="10" fill="#3178c6" /><rect x="312.93" y="60" width="54.51" height="10" fill="#3572A5" /><rect x="367.44" y="60" width="5.14" height="10" fill="#e34c26" /><rect x="372.58" y="60" width="2.42" height="10" fill="#89e051" /></g>
+    <g clip-path="url(#barClip)"><rect x="25.00" y="60" width="102.77" height="10" fill="#dea584" /><rect x="127.77" y="60" width="94.00" height="10" fill="#f1e05a" /><rect x="221.77" y="60" width="91.21" height="10" fill="#3178c6" /><rect x="312.98" y="60" width="54.47" height="10" fill="#3572A5" /><rect x="367.45" y="60" width="5.14" height="10" fill="#e34c26" /><rect x="372.59" y="60" width="2.41" height="10" fill="#89e051" /></g>
     
     <circle cx="31" cy="101" r="6" fill="#dea584" />
     <text x="45" y="105" class="label">Rust</text>
