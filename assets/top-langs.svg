@@ -13,11 +13,11 @@
     <text x="25" y="40" class="title">Most Used Languages</text>
     <line x1="25" y1="50" x2="375" y2="50" stroke="#1f6feb33" stroke-width="1" />
     <clipPath id="barClip"><rect x="25" y="60" width="350" height="10" rx="5" /></clipPath>
-    <g clip-path="url(#barClip)"><rect x="25.00" y="60" width="103.36" height="10" fill="#dea584" /><rect x="128.36" y="60" width="93.69" height="10" fill="#f1e05a" /><rect x="222.04" y="60" width="90.91" height="10" fill="#3178c6" /><rect x="312.95" y="60" width="54.52" height="10" fill="#3572A5" /><rect x="367.47" y="60" width="5.12" height="10" fill="#e34c26" /><rect x="372.59" y="60" width="2.41" height="10" fill="#89e051" /></g>
+    <g clip-path="url(#barClip)"><rect x="25.00" y="60" width="103.67" height="10" fill="#dea584" /><rect x="128.67" y="60" width="93.57" height="10" fill="#f1e05a" /><rect x="222.24" y="60" width="90.79" height="10" fill="#3178c6" /><rect x="313.03" y="60" width="54.45" height="10" fill="#3572A5" /><rect x="367.48" y="60" width="5.12" height="10" fill="#e34c26" /><rect x="372.60" y="60" width="2.40" height="10" fill="#89e051" /></g>
     
     <circle cx="31" cy="101" r="6" fill="#dea584" />
     <text x="45" y="105" class="label">Rust</text>
-    <text x="190" y="105" class="muted" text-anchor="end">29.3%</text>
+    <text x="190" y="105" class="muted" text-anchor="end">29.4%</text>
     <circle cx="206" cy="101" r="6" fill="#f1e05a" />
     <text x="220" y="105" class="label">JavaScript</text>
     <text x="365" y="105" class="muted" text-anchor="end">26.5%</text>
@@ -29,7 +29,7 @@
     <text x="365" y="133" class="muted" text-anchor="end">15.4%</text>
     <circle cx="31" cy="157" r="6" fill="#e34c26" />
     <text x="45" y="161" class="label">HTML</text>
-    <text x="190" y="161" class="muted" text-anchor="end">1.5%</text>
+    <text x="190" y="161" class="muted" text-anchor="end">1.4%</text>
     <circle cx="206" cy="157" r="6" fill="#89e051" />
     <text x="220" y="161" class="label">Shell</text>
     <text x="365" y="161" class="muted" text-anchor="end">0.7%</text>
