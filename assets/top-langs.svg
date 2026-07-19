@@ -13,7 +13,7 @@
     <text x="25" y="40" class="title">Most Used Languages</text>
     <line x1="25" y1="50" x2="375" y2="50" stroke="#1f6feb33" stroke-width="1" />
     <clipPath id="barClip"><rect x="25" y="60" width="350" height="10" rx="5" /></clipPath>
-    <g clip-path="url(#barClip)"><rect x="25.00" y="60" width="110.05" height="10" fill="#dea584" /><rect x="135.05" y="60" width="92.50" height="10" fill="#3178c6" /><rect x="227.55" y="60" width="88.42" height="10" fill="#f1e05a" /><rect x="315.97" y="60" width="51.86" height="10" fill="#3572A5" /><rect x="367.83" y="60" width="4.83" height="10" fill="#e34c26" /><rect x="372.66" y="60" width="2.34" height="10" fill="#89e051" /></g>
+    <g clip-path="url(#barClip)"><rect x="25.00" y="60" width="110.19" height="10" fill="#dea584" /><rect x="135.19" y="60" width="92.45" height="10" fill="#3178c6" /><rect x="227.64" y="60" width="88.37" height="10" fill="#f1e05a" /><rect x="316.01" y="60" width="51.83" height="10" fill="#3572A5" /><rect x="367.84" y="60" width="4.83" height="10" fill="#e34c26" /><rect x="372.66" y="60" width="2.34" height="10" fill="#89e051" /></g>
     
     <circle cx="31" cy="101" r="6" fill="#dea584" />
     <text x="45" y="105" class="label">Rust</text>
@@ -23,7 +23,7 @@
     <text x="365" y="105" class="muted" text-anchor="end">26.2%</text>
     <circle cx="31" cy="129" r="6" fill="#f1e05a" />
     <text x="45" y="133" class="label">JavaScript</text>
-    <text x="190" y="133" class="muted" text-anchor="end">25.1%</text>
+    <text x="190" y="133" class="muted" text-anchor="end">25.0%</text>
     <circle cx="206" cy="129" r="6" fill="#3572A5" />
     <text x="220" y="133" class="label">Python</text>
     <text x="365" y="133" class="muted" text-anchor="end">14.7%</text>
