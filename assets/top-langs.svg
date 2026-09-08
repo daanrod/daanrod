@@ -13,17 +13,17 @@
     <text x="25" y="40" class="title">Most Used Languages</text>
     <line x1="25" y1="50" x2="375" y2="50" stroke="#1f6feb33" stroke-width="1" />
     <clipPath id="barClip"><rect x="25" y="60" width="350" height="10" rx="5" /></clipPath>
-    <g clip-path="url(#barClip)"><rect x="25.00" y="60" width="157.96" height="10" fill="#dea584" /><rect x="182.96" y="60" width="81.39" height="10" fill="#3178c6" /><rect x="264.35" y="60" width="50.71" height="10" fill="#3572A5" /><rect x="315.06" y="60" width="49.97" height="10" fill="#f1e05a" /><rect x="365.03" y="60" width="5.71" height="10" fill="#e34c26" /><rect x="370.74" y="60" width="4.26" height="10" fill="#f34b7d" /></g>
+    <g clip-path="url(#barClip)"><rect x="25.00" y="60" width="158.87" height="10" fill="#dea584" /><rect x="183.87" y="60" width="80.77" height="10" fill="#3178c6" /><rect x="264.64" y="60" width="50.32" height="10" fill="#3572A5" /><rect x="314.96" y="60" width="50.11" height="10" fill="#f1e05a" /><rect x="365.07" y="60" width="5.70" height="10" fill="#e34c26" /><rect x="370.77" y="60" width="4.23" height="10" fill="#f34b7d" /></g>
     
     <circle cx="31" cy="101" r="6" fill="#dea584" />
     <text x="45" y="105" class="label">Rust</text>
-    <text x="190" y="105" class="muted" text-anchor="end">44.4%</text>
+    <text x="190" y="105" class="muted" text-anchor="end">44.7%</text>
     <circle cx="206" cy="101" r="6" fill="#3178c6" />
     <text x="220" y="105" class="label">TypeScript</text>
-    <text x="365" y="105" class="muted" text-anchor="end">22.9%</text>
+    <text x="365" y="105" class="muted" text-anchor="end">22.7%</text>
     <circle cx="31" cy="129" r="6" fill="#3572A5" />
     <text x="45" y="133" class="label">Python</text>
-    <text x="190" y="133" class="muted" text-anchor="end">14.3%</text>
+    <text x="190" y="133" class="muted" text-anchor="end">14.2%</text>
     <circle cx="206" cy="129" r="6" fill="#f1e05a" />
     <text x="220" y="133" class="label">JavaScript</text>
     <text x="365" y="133" class="muted" text-anchor="end">14.1%</text>
